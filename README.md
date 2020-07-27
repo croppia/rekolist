@@ -1,4 +1,4 @@
-# Croppia.com Web Site
+# rekolist.com Web Site
 
 This is a Gatsby supported web site generator.
 
