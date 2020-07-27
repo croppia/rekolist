@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Croppia`,
-    description: `Soon more information.`,
+    title: `REKO Rings Finder`,
+    description: `Find a REKO Ring near you.`,
     author: `jorge@croppia.com`,
   },
   plugins: [
