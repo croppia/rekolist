@@ -12,6 +12,17 @@ const IndexPage = () => (
     <p>Type a city:</p>
     <input></input>
     <button>Search</button>
+    <h4>Future Features</h4>
+    <ul>
+      <li>Find REKO Rings in your area</li>
+      <li>Check time/location</li>
+      <li>Check producers profiles</li>
+      <li>Check next REKO deliveries</li>
+      <li>Support Login with FB/Google/Twitter/Email</li>
+      <li>Order Management for Farms</li>
+      <li>Aditional Features will have a minimal maintenance fee</li>
+      <li>Open source infrastructure to run a REKO Directory</li>
+    </ul>
   </Layout>
 )
 
