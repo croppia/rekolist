@@ -23,6 +23,7 @@ const IndexPage = () => (
       <li>Aditional Features will have a minimal maintenance fee</li>
       <li>Open source infrastructure to run a REKO Directory</li>
     </ul>
+    <a href="mailto:jorge@croppia.com">Contact Me!</a>
   </Layout>
 )
 
