@@ -37,6 +37,7 @@ const Layout = ({ children }) => {
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}
+          Logo created in LogoMakr.com
         </footer>
       </div>
     </>
